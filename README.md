@@ -18,11 +18,11 @@
 - Ключевые признаки ухода: удовлетворенность человека своей работой.
 
 ### 📊 Превью результатов
-<img src="screenshots/correlation_heatmap.png" width="600" alt="Корреляционная матрица">
+<img src="screenshot/correlation_heatmap.png" width="500" alt="Корреляционная матрица">
 
-<img src="screenshots/satisfaction_kde.jpg" width="600" alt="Распределение удовлетворенности">
+<img src="screenshot/satisfaction_kde.jpg" width="600" alt="Распределение удовлетворенности">
 
-<img src="screenshots/workload_bar.jpg" width="600" alt="Загруженность по отделам">
+<img src="screenshot/workload_bar.jpg" width="600" alt="Загруженность по отделам">
 
 ### 🛠 Технологический стек
 - **Python 3.9.5**
@@ -32,7 +32,6 @@
 ### 📓 Ноутбук проекта
 Полный цикл: EDA, предобработка, моделирование, интерпретация и рекомендации бизнесу.
 
-[Открыть с графиками (nbviewer)](https://nbviewer.org/github/Dayana373/Escape_detector/blob/main/escape_detector.ipynb)  
 [Открыть на GitHub](https://github.com/Dayana373/Escape_detector/blob/main/escape_detector.ipynb)
 
 ### 📁 Данные
